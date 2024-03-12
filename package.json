@@ -1,0 +1,26 @@
+{
+"name": "dev-ync-2",
+"version": "1.0.0",
+"description": " a comprehensive platform aimed at fostering collaboration and enhancing productivity among developers globally. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/haagmq1980/DevSync.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "haagmq1980",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
